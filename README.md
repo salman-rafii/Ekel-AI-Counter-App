@@ -1,4 +1,4 @@
-# counter_app_ekel_al_task
+# EKEL AI COUNTER APP
 
 A new Flutter project.
 
